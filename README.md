@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/token2022-launchpad.git
+git clone https://github.com/g0drlc/Token2022-Launchpad.git
 cd token2022-launchpad
 ```
 
